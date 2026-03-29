@@ -1,0 +1,17 @@
+name: ImmersiveTP
+version: 1.0
+main: dev.nathsys.immersivetp.ImmersiveTP
+api-version: 1.20
+commands:
+  itp:
+    description: Teleport to a player.
+    usage: /itp <player>
+  itpaccept:
+    description: Accept a tp request.
+    usage: /itpaccept <requester UUID>
+  itpsethome:
+    description: Set your home location.
+    usage: /itpsethome
+  itphome:
+    description: Teleport to your home location.
+    usage: /itphome

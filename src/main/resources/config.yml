@@ -1,0 +1,4 @@
+cost:
+  enabled: true
+  item: GOLD_INGOT
+  amount: 1
